@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DownloadManager</string>
+    <string name="app_name">WallPaperDownloadManager</string>
     <string name="download">Download</string>
     <string name="go">Search</string>
 </resources>
